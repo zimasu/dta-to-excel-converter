@@ -18,5 +18,6 @@ An efficient, production-ready Python utility designed to safely parse and conve
 Install the necessary system and data processing dependencies via:
 ```bash
 pip install -r requirement.txt
+```
 
 Author: Zidane Syukri | License: MIT
